@@ -5,7 +5,7 @@ On se propose de mettre en place un réseau web IoT composé d’objets à base 
 ![web_iot.png](images/web_iot.png)
 
 ## La structure URI:
-![struct-uri.png](struct-uri.png)
+![struct-uri.png](images/struct-uri.png)
 
 ## Files:
 
