@@ -8,4 +8,9 @@ On se propose de mettre en place un réseau web IoT composé d’objets à base 
 ![struct-uri.png](images/struct-uri.png)
 
 ## Files:
-
+### Rapport:
+- [Rapport](Réseau d’intégration Web IoT.pdf)
+### Client:
+- [HTML: bootstrap, javascript](Client/index.html)
+### Server:
+- [Python:MQTT, Socketio, Flask](Server/server.py)
